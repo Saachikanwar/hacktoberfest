@@ -310,6 +310,12 @@
 - Bio: Student
 - GitHub: [Prashant Bhapkar](https://github.com/Prashant-Bhapkar)
 
+#### Name: [Saachi](GitHub link)
+
+- Place: Chandigarh, India
+- Bio: Student, Developer
+- GitHub: [GitHub account name](GitHub link)
+
 #### Name: [Ishan Katoch](https://github.com/ishan-1010)
 
 - Place: Dera Bassi, India
