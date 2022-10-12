@@ -310,11 +310,11 @@
 - Bio: Student
 - GitHub: [Prashant Bhapkar](https://github.com/Prashant-Bhapkar)
 
-#### Name: [Saachi](GitHub link)
+#### Name: [Saachi Kanwar](https://github.com/Saachikanwar)
 
 - Place: Chandigarh, India
 - Bio: Student, Developer
-- GitHub: [GitHub account name](GitHub link)
+- GitHub: [Saachi Kanwar](https://github.com/Saachikanwar)
 
 #### Name: [Ishan Katoch](https://github.com/ishan-1010)
 
